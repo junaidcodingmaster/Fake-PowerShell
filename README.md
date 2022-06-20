@@ -60,6 +60,8 @@ If you get any bugs , issue or any documentation error , contact me on my email 
 
 ## Installation
 
+- clone this repo .
+
 Now , In latest version installation is simple. Just type .
 
 ```python
