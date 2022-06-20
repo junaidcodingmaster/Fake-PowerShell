@@ -67,3 +67,7 @@ python install.py
 ```
 
 It will do setup also .
+
+---
+
+**Made By [Junaid](https://abujuni.dev) .**
