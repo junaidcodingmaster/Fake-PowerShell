@@ -28,9 +28,9 @@ _If your terminal location show `PS C:\WINDOWS\system32>` , Change some setting.
 
 ---
 
-## Version - 0.1.2
+## Version - 0.1
 
-Latest version of FakePowerShell version - 0.1.2 , June 2022 .
+Latest version of FakePowerShell version - 0.1 , June 2022 .
 
 - Bugs
 - - `Unable find 'c:/../../../useful_python/powershell/powershell.py'` - fixed ✔
