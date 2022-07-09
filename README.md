@@ -28,9 +28,9 @@ _If your terminal location show `PS C:\WINDOWS\system32>` , Change some setting.
 
 ---
 
-## Version - 2
+## Version - 0.1.2
 
-Latest version of FakePowerShell version - 2 , June 2022 .
+Latest version of FakePowerShell version - 0.1.2 , June 2022 .
 
 - Bugs
 - - `Unable find 'c:/../../../useful_python/powershell/powershell.py'` - fixed ✔
@@ -59,17 +59,6 @@ If you get any bugs , issue or any documentation error , contact me on my email 
 ---
 
 ## Installation
-
-- clone this repo .
-
-Now , In latest version installation is simple. Just type .
-
-```python
-python install.py
-```
-
-It will do setup also .
-
----
+Get latest release of fake powershell . with install.py
 
 **Made By [Junaid](https://abujuni.dev) .**
